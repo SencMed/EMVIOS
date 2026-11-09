@@ -6,3 +6,9 @@ EMVIOS – actualización de icono y caché
 4. Las próximas actualizaciones de los iconos usarán una URL versionada para reducir el problema de caché.
 
 El icono actualizado usa EM dorado y VIOS plateado de alto contraste sobre negro.
+
+
+CORRECCIONES:
+- El formulario de nueva compra se limpia por completo al abrirlo y después de guardar (cliente, plataforma, otra plataforma y productos).
+- Los campos usan fuente de 16 px para evitar el zoom automático de Safari en iPhone.
+- Se añadió inputmode decimal a los importes y se actualizó la versión de caché de iconos.
