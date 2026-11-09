@@ -1,5 +1,8 @@
-EMVIOS - actualización de identidad visual
+EMVIOS – actualización de icono y caché
 
-Logo principal completo: menú de inicio y factura PDF.
-Ícono de app: solo EMVIOS, EM dorado y VIOS plateado, fondo negro liso, sin borde ni brillo.
-Se conservaron las funciones y los datos locales de la aplicación.
+1. Sube y reemplaza TODOS los archivos de este paquete en la raíz del repositorio GitHub Pages.
+2. Abre la web en Safari y recarga.
+3. iOS puede conservar el icono de una app ya añadida a Inicio. Para cambiar ese icono guardado por iOS, puede ser necesario quitarlo y añadirlo una sola vez después de esta actualización.
+4. Las próximas actualizaciones de los iconos usarán una URL versionada para reducir el problema de caché.
+
+El icono actualizado usa EM dorado y VIOS plateado de alto contraste sobre negro.
