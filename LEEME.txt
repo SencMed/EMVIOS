@@ -1,13 +1,5 @@
-EMVIOS — PAQUETE PARA GITHUB PAGES
+EMVIOS — PAQUETE ACTUALIZADO
 
-Este paquete incluye index.html actualizado (sin las tarjetas de acceso duplicadas) y los recursos del logo.
+Esta versión elimina las pestañas superiores y conserva las cuatro tarjetas de acceso en el panel principal: Clientes, Compras, Abonos y Facturas. También conserva el saldo pendiente y el botón Registrar compra.
 
-Para actualizar el repositorio:
-1. Descomprime este ZIP en la app Archivos del iPhone.
-2. En GitHub abre el repositorio EMVIOS y elige Add file > Upload files.
-3. Selecciona TODOS los archivos que están dentro de esta carpeta descomprimida (no subas la carpeta contenedora).
-4. Confirma el reemplazo de index.html y de los archivos con el mismo nombre.
-5. Pulsa Commit changes.
-
-Sube los archivos a la raíz del repositorio. No cambies sus nombres.
-Los datos de esta primera versión se guardan en el navegador del dispositivo; exporta respaldos regularmente. La tasa BANPRO debe ingresarse manualmente.
+Descomprime el ZIP y sube todos los archivos a la raíz del repositorio EMVIOS con Add file > Upload files. Confirma el reemplazo de los archivos existentes y pulsa Commit changes.
