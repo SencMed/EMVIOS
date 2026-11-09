@@ -1,6 +1,5 @@
-EMVIOS - actualización de logotipo
+EMVIOS - actualización de identidad visual
 
-Se actualizó el logotipo visible en el encabezado y los iconos de la app con el diseño aprobado: EMVIOS en dorado y plateado, sin el texto “COMPRAS INTERNACIONALES”.
-Se conservaron las demás funciones y archivos de la versión anterior.
-
-Para publicar: descomprimir este ZIP y subir todos sus archivos a la raíz del repositorio GitHub Pages, reemplazando los anteriores.
+Logo principal completo: menú de inicio y factura PDF.
+Ícono de app: solo EMVIOS, EM dorado y VIOS plateado, fondo negro liso, sin borde ni brillo.
+Se conservaron las funciones y los datos locales de la aplicación.
