@@ -1,5 +1,1 @@
-EMVIOS — PAQUETE ACTUALIZADO
-
-Esta versión elimina las pestañas superiores y conserva las cuatro tarjetas de acceso en el panel principal: Clientes, Compras, Abonos y Facturas. También conserva el saldo pendiente y el botón Registrar compra.
-
-Descomprime el ZIP y sube todos los archivos a la raíz del repositorio EMVIOS con Add file > Upload files. Confirma el reemplazo de los archivos existentes y pulsa Commit changes.
+EMVIOS – paquete actualizado. En Facturas incluye Compartir factura PDF (abre la hoja de compartir del iPhone para elegir WhatsApp) y Guardar PDF. Exporta un respaldo de tus datos antes de reemplazar archivos.
